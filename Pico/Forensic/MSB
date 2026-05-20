@@ -1,3 +1,13 @@
+Challenge Information
+
+Level: Medium
+
+Tags: picoCTF 2026, Forensics
+
+Author: NhanNghia
+
+Challenge Link: https://learn.cylabacademy.org/library/359?page=3&category=4&workspace=true
+
 1.Đổi tên file ảnh thành chữ thường:
 mv Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png ninja-and-prince-genji-ukiyoe-utagawa-kunisada.flag.png
 
