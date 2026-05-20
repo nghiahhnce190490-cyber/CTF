@@ -1,0 +1,8 @@
+1.Đổi tên file ảnh thành chữ thường:
+mv Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png ninja-and-prince-genji-ukiyoe-utagawa-kunisada.flag.png
+
+2. Chạy lại công cụ SigBits với tên file mới:
+python3 sigBits.py -t msb -i ninja-and-prince-genji-ukiyoe-utagawa-kunisada.flag.png -out outputSB.txt
+
+3. Lấy cờ:
+grep -oE "picoCTF\{[^}]+\}" outputSB.txt
